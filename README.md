@@ -26,7 +26,7 @@ If you're running this project locally or outside Colab, it's recommended to ins
 ```bash
 pip install -r requirements.txt
 ```
-## ▶️ How to Run
+##  How to Run
 
 Download the notebook and open it with [Google Colab](https://colab.research.google.com/).
 
